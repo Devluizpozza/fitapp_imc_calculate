@@ -5,3 +5,4 @@ Fit_app is an application that calculates the user's body fat percentage, provid
 ## Getting Started
 
 To test the app, simply clone the code and launch it on an Android emulator! The application is simple and does not have a connection to any database.
+the application is developed entirely in dart, using flutter
