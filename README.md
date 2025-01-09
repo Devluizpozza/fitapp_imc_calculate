@@ -1,16 +1,7 @@
 # fit_app
 
-A new Flutter project.
+Fit_app is an application that calculates the user's body fat percentage, providing a brief description based on their height and weight, about their current health situation in relation to fat.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To test the app, simply clone the code and launch it on an Android emulator! The application is simple and does not have a connection to any database.
